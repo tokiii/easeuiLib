@@ -1,0 +1,31 @@
+<resources>
+
+    <dimen name="height_top_bar">46dp</dimen>
+    <dimen name="padding_search_bar">5dp</dimen>
+    <dimen name="height_row_weixin">59dp</dimen>
+    <dimen name="size_avatar">48dp</dimen>
+    <dimen name="margin_chat_activity">10dp</dimen><!--头像距离边界距离-->
+    <dimen name="name_margin_image">8dp</dimen><!--用户名与头像的距离-->
+    <dimen name="name_margin_content">5dp</dimen><!--用户名与显示内容的距离-->
+    <dimen name="field_textsize">14sp</dimen>
+    <dimen name="field_margin_right">5dp</dimen>
+    <dimen name="call_button_padding_vertical">10dp</dimen>
+    <dimen name="call_button_padding_left">25dp</dimen>
+    <dimen name="call_button_padding_right">25dp</dimen>
+    <dimen name="sidebar_text_size">10dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="image_thumbnail_size">100dp</dimen>
+    <dimen name="image_thumbnail_spacing">1dp</dimen>
+    <dimen name="chat_nick_margin_left">12dp</dimen>
+    <dimen name="chat_nick_text_size">13sp</dimen>
+
+
+    <!--聊天界面-->
+    <dimen name="title_view_height">18dp</dimen><!--标题栏高度-->
+    <dimen name="title_view_left_right_icon_size">18dp</dimen><!--标题栏左右图标的大小-->
+    <dimen name="title_view_left_right_margin">13dp</dimen><!--标题栏左右边距的距离-->
+    <dimen name="title_view_center_text_size">18sp</dimen><!--标题栏中间文字的字体大小-->
+
+
+</resources>
